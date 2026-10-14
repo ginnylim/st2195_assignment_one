@@ -1,2 +1,7 @@
 this is created in main branch at 16:29.
+<<<<<<< HEAD
 handsome feels handsome in main branch, at 16:44.
+=======
+
+pretty likes handsome in pretty branch, at 16:40.
+>>>>>>> pretty
